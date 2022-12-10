@@ -1,5 +1,5 @@
 to do repository: 
-- go through files: Just keep the important ones
+- go through files: Just keep the important ones / synthesize Ramis and mine
 - go through notebooks: 
 	- if code works fine
 	- document and comment out code
