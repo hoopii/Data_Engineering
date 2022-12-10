@@ -20,7 +20,7 @@ I gathered data from the web using APIs and webscraping techniques, stored it in
 ## Skills/Tools
 *Python*   
 *[Python requests library](https://pypi.org/project/requests/)*   
-*Python Beautiful Soup library(https://beautiful-soup-4.readthedocs.io/en/latest/)*   
+*[Python Beautiful Soup library](https://beautiful-soup-4.readthedocs.io/en/latest/)*   
 *JSON Parsing*       
 
 
@@ -41,7 +41,7 @@ Phase 2: Set up Pipeline in the Cloud:
 - Automate the pipeline 
 
 The deliverable of this project is a written Medium article of what you have accomplished: 
-- [Medium Article on Data Collection process with API's](https://medium.com/@rene.markovits/data-engineering-skills-for-data-scientists-c095e01dd82b)
+- [Medium Article on Data Collection process with API's](https://medium.com/@rene.markovits/data-engineering-skills-for-data-scientists-c095e01dd82b): The article guides and explains the code I used to collect the data using API's
 
 
 ## Limitations: 
