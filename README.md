@@ -1,4 +1,4 @@
-# Data_Engineering
+# Data Engineering Skills for Data Scientists
 Basic Data Engineering Skills for Data Scientists: Data Collection and Pipelines
 
 ![](picture_project.png)
