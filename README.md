@@ -18,9 +18,10 @@ In many cases Data Scientists or Data Analysts don’t have access to preprocess
 I gathered data from the web using APIs and webscraping techniques, stored it in a database on the cloud with AWS services and automated this process as part of my Data Science Bootcamp at WBS CODING SCHOOL. Here’s how I put together the API requests, parsed the JSON response and put the data into a nice looking dataframe.
 
 ## Skills/Tools
-Python
-[Python requests library](https://pypi.org/project/requests/)
-JSON Parsing
+*Python*   
+*[Python requests library](https://pypi.org/project/requests/)*   
+*JSON Parsing*       
+
 
 ## Basic Steps in this Project: 
 
