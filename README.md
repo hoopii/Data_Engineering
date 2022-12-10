@@ -20,11 +20,11 @@ I gathered data from the web using APIs and webscraping techniques, stored it in
     to take care of obtaining data themselves, performing ETL operations and setting up databases in the cloud. 
 
 ## Skills/Tools
-- *Collect data from the internet by writing a web scraping script using Python’s library [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)*   
-- *Collect data from the internet through APIs, assembling the call directly with the [requests library.](https://pypi.org/project/requests/)*   
+- *Collect data from the internet by writing a web scraping script using Python’s library [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/).*   
+- *Collect data from the internet through APIs, assembling the call directly with the [requests library](https://pypi.org/project/requests/).*   
 - *Write for loops and list comprehensions on Python to perform tasks iteratively.*
-- *JSON Parsing*   
-- *[Connect Python with MySQL using SQLAlchemy](https://www.sqlalchemy.org/)  
+- *Do JSON Parsing.*   
+- *[Connect Python with MySQL using SQLAlchemy](https://www.sqlalchemy.org/).*  
 - *Set up an RDS instance on AWS and enable the connection between your computer and the cloud instance, both through a standard client such as MySQL Workbench and through Python, by using MySQL-python-connector.*   
 - *Populate your MySQL tables with collected data through INSERT queries executed from a Python script.*  
 - *Use AWS:Lambda functions to run the code in the cloud and schedule the Lambda functions to run on a specified schedule.*   
@@ -61,6 +61,24 @@ All tech projects start with a simple approach before moving on to more complica
 - We will not work with big data, data streaming or parallel computing.
 
 ## Files in this repository: 
+- Folder Notebook_APIs:
+            [Gather some data on airports
+- Folder Notebook_AWS: 
+- Notebooks_Push_Data_Local_Database
+
+
+- [Description of dataset: tables and columns](../main/description_tables_columns.txt)
+- [Notebook for Data Cleaning and Data Quality Assessment](../main/data-cleaning-and-merging.ipynb)      
+- [Notebook for Explorative Data Analysis and Visualizations](../main/EDA_for_sales-data.ipynb)  
+- [CSV file brands raw data](../main/brands.csv)  
+- [CSV file brands cleaned](../main/brands_clean.csv)
+- [CSV file orders raw data](../main/orders.csv)  
+- [CSV file orders cleaned](../main/orders_clean.csv)
+- [CSV file orderlines raw data](../main/orderlines.csv)  
+- [CSV file orderlines cleaned](../main/orderlines_clean.csv)
+- [CSV file products raw data](../main/products.csv)  
+- [CSV file products cleaned](../main/products_clean.csv)
+
 
 
 
