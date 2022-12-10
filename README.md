@@ -10,7 +10,7 @@ Ideally, scooters get rearranged organically by having certain users moving from
 - On rainy and cold days e-scooter usage decreases drastically.
 - Whenever planes with backpack young tourists land, a lot of scooters are needed close to the airport.
 
-So a good way to start is collecting data on weather forecasts and future flight arrivals at city airports. To supply the e-scooter-sharing company with basic data to anticipate scooter movement using Python we will gather data on weather and future flight arrivals using API's and webscraping
+So a good way to start is collecting data on weather forecasts and future flight arrivals at city airports. To supply the e-scooter-sharing company with basic data to anticipate scooter movement using Python we will gather data on weather and future flight arrivals using API's. We support those informations by scraping wikipedia for demographical data on the cities
 
 ## Goal 
 In many cases Data Scientists or Data Analysts don’t have access to preprocessed, well structured, cleaned up data ready to use. More often and particularly in small start-ups and companies, employers expect data scientists to have some very basic data engineering skills, to take care of obtaining data themselves, performing ETL operations and setting up databases in the cloud. 
@@ -20,6 +20,7 @@ I gathered data from the web using APIs and webscraping techniques, stored it in
 ## Skills/Tools
 *Python*   
 *[Python requests library](https://pypi.org/project/requests/)*   
+*Python Beautiful Soup library(https://beautiful-soup-4.readthedocs.io/en/latest/)*   
 *JSON Parsing*       
 
 
