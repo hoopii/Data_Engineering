@@ -19,6 +19,7 @@ I gathered data from the web using APIs and webscraping techniques, stored it in
 
 ## Skills/Tools
 Python
+[Python requests library](https://pypi.org/project/requests/)
 JSON Parsing
 
 ## Basic Steps in this Project: 
