@@ -20,18 +20,18 @@ I gathered data from the web using APIs and webscraping techniques, stored it in
     to take care of obtaining data themselves, performing ETL operations and setting up databases in the cloud. 
 
 ## Skills/Tools
-*Collect data from the internet by writing a web scraping script using Python’s library [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)*   
-*Collect data from the internet through APIs, assembling the call directly with the [requests library.](https://pypi.org/project/requests/)*   
-*Write for loops and list comprehensions on Python to perform tasks iteratively.*
-*JSON Parsing*   
-*[Connect Python with MySQL using SQLAlchemy](https://www.sqlalchemy.org/)  
-*Set up an RDS instance on AWS and enable the connection between your computer and the cloud instance, both through a standard client such as MySQL Workbench and through Python, by using MySQL-python-connector.*   
-*Populate your MySQL tables with collected data through INSERT queries executed from a Python script.*  
-*Use AWS:Lambda functions to run the code in the cloud and schedule the Lambda functions to run on a specified schedule.*   
-*Populate your MySQL tables with collected data through INSERT queries executed from a Python script.*   
-*Set up Lambda functions to run your code in the cloud (using a serverless service).*   
-*Create custom Layers with ad-hoc dependencies for the Lambda functions.*   
-* Schedule Lambda functions to run on a specified schedule.*   
+- *Collect data from the internet by writing a web scraping script using Python’s library [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)*   
+- *Collect data from the internet through APIs, assembling the call directly with the [requests library.](https://pypi.org/project/requests/)*   
+- *Write for loops and list comprehensions on Python to perform tasks iteratively.*
+- *JSON Parsing*   
+- *[Connect Python with MySQL using SQLAlchemy](https://www.sqlalchemy.org/)  
+- *Set up an RDS instance on AWS and enable the connection between your computer and the cloud instance, both through a standard client such as MySQL Workbench and through Python, by using MySQL-python-connector.*   
+- *Populate your MySQL tables with collected data through INSERT queries executed from a Python script.*  
+- *Use AWS:Lambda functions to run the code in the cloud and schedule the Lambda functions to run on a specified schedule.*   
+- *Populate your MySQL tables with collected data through INSERT queries executed from a Python script.*   
+- *Set up Lambda functions to run your code in the cloud (using a serverless service).*   
+- *Create custom Layers with ad-hoc dependencies for the Lambda functions.*   
+- *Schedule Lambda functions to run on a specified schedule.*   
 
 ## Basic Steps in this Project: 
 
