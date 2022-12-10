@@ -38,8 +38,7 @@ Phase 2: Set up Pipeline in the Cloud:
 - Automate the pipeline 
 
 The deliverable of this project is a written Medium article of what you have accomplished: 
-- [Medium Article on Data Collection process with API's]https://medium.com/@rene.markovits/data-engineering-skills-for-data-scientists-c095e01dd82b
-
+- [Medium Article on Data Collection process with API's](https://medium.com/@rene.markovits/data-engineering-skills-for-data-scientists-c095e01dd82b)
 
 
 ## Limitations: 
