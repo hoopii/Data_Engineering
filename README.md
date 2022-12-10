@@ -13,9 +13,11 @@ Ideally, scooters get rearranged organically by having certain users moving from
 So a good way to start is collecting data on weather forecasts and future flight arrivals at city airports. To supply the e-scooter-sharing company with basic data to anticipate scooter movement using Python we will gather data on weather and future flight arrivals using API's. We support those informations by scraping wikipedia for demographical data on the cities
 
 ## Goal 
-In many cases Data Scientists or Data Analysts don’t have access to preprocessed, well structured, cleaned up data ready to use. More often and particularly in small start-ups and companies, employers expect data scientists to have some very basic data engineering skills, to take care of obtaining data themselves, performing ETL operations and setting up databases in the cloud. 
-
 I gathered data from the web using APIs and webscraping techniques, stored it in a database on the cloud with AWS services and automated this process as part of my Data Science Bootcamp at WBS CODING SCHOOL. Here’s how I put together the API requests, parsed the JSON response and put the data into a nice looking dataframe.
+
+    In many cases Data Scientists or Data Analysts don’t have access to preprocessed, well structured, cleaned up data ready to use.  
+    More often and particularly in small start-ups and companies, employers expect data scientists to have some very basic data engineering skills,  
+    to take care of obtaining data themselves, performing ETL operations and setting up databases in the cloud. 
 
 ## Skills/Tools
 *Python*   
