@@ -25,24 +25,10 @@ CREATE TABLE wiki_scrape (
 ); 
 
 
-
 CREATE TABLE weather_data (
-	id INT AUTO_INCREMENT, 
+	id INT , 
+    city_id INT, 
     city VARCHAR (20), 
-    forecast_time DATETIME, 
-    outlook VARCHAR(20), 
-    temperature FLOAT(10),
-    temperature_feels_like FLOAT (10),
-    wind_speed FLOAT (10),
-    rain VARCHAR (20), 
-    PRIMARY KEY (id)
-); 	
-
-
-CREATE TABLE weather_data_id (
-	id INT AUTO_INCREMENT, 
-    city_id INT,
-    city VARCHAR (80), 
     forecast_time DATETIME, 
     outlook VARCHAR(20), 
     temperature FLOAT(10),
