@@ -2,17 +2,6 @@ CREATE DATABASE collected_data;
 
 Use collected_data; 
 
-CREATE TABLE wiki_scrape_1 (
-	id INT AUTO_INCREMENT,
-	city VARCHAR(20),
-    country VARCHAR(20), 
-    state VARCHAR(20), 
-    pop_city_state VARCHAR(20), 
-    pop_urban VARCHAR(20), 
-    pop_metro VARCHAR(20), 
-    PRIMARY KEY (id)
-); 
-
 CREATE TABLE wiki_scrape (
 	id INT AUTO_INCREMENT,
 	city VARCHAR(20),
@@ -23,6 +12,8 @@ CREATE TABLE wiki_scrape (
     pop_metro VARCHAR(20), 
     PRIMARY KEY (id)
 ); 
+
+SELECT * FROM wiki_scrape; 
 
 
 CREATE TABLE weather_data (
