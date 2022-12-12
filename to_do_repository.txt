@@ -1,9 +1,5 @@
 to do repository: 
 - go through notebooks: 
-	- if code works fine
 	- document and comment out code
-- put together description on how to make account and RDS on AWS
-- Improve Notebook on Webscraping
-- go through text of Medium article on APIs for weather
-- go through files of all folders but API (Inside of push data to MySQL I already updated the file 
-for flights data) 
+- put together description on how to make account and RDS on AWS and use and automate lambdas
+- Improve Notebook on Webscraping: Scrape for more information
