@@ -60,21 +60,13 @@ All tech projects start with a simple approach before moving on to more complica
 - We will not work with big data, data streaming or parallel computing.
 
 ## Files in this repository: 
-- Folder for notebooks on APIs:
-            
-            [Gather data on future flight arrivals](../main/Notebooks_APIs/flights_arrivals_API_to_dataframe.ipynb)
-            [Gather data on future weather](../main/Notebooks_APIs/weather_API_to_dataframe.ipynb) 
-- 
-- Folder for notebook on webscraping: 
-            
-            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Webscraping/extract_wiki.ipynb)
-- 
-- Folder for Notebooks on pushing data to local database/mySql
-            
-            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/Wiki_scraper_mysql.ipynb)
-            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/flights_data_to_mysql.ipynb)
-            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/weather_API_to_mysql.ipynb)
-       
-
-
-
+- Folder for notebooks on APIs:  
+  - [Gather data on future flight arrivals](../main/Notebooks_APIs/flights_arrivals_API_to_dataframe.ipynb)  
+  - [Gather data on future weather](../main/Notebooks_APIs/weather_API_to_dataframe.ipynb)   
+- Folder for notebook on webscraping:   
+  - [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Webscraping/extract_wiki.ipynb)  
+- Folder for Notebooks on pushing data to local database/mySQL  
+  - [push basic information about the cities to mySQL](../main/Notebooks_Push_Data_Local_Database/Wiki_scraper_mysql.ipynb)
+  - [push data on flight arrivals to mySQL](../main/Notebooks_Push_Data_Local_Database/flights_data_to_mysql.ipynb)
+  - [push data on weather to mySQL](../main/Notebooks_Push_Data_Local_Database/weather_API_to_mysql.ipynb)
+- [Create empty tables in SQL before pushing the data](../main/Prepare_Tables_in_SQL.sql)
