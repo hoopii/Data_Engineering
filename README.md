@@ -52,7 +52,6 @@ Phase 2: Set up Pipeline in the Cloud:
 The deliverable of this project is a written Medium article of what you have accomplished: 
 - [Medium Article on Data Collection process with API's](https://medium.com/@rene.markovits/data-engineering-skills-for-data-scientists-c095e01dd82b): The article guides and explains the code I used to collect the data using API's
 
-
 ## Limitations: 
 It’s important to limit the scope of this project: We create a very basic pipeline in the cloud. 
 All tech projects start with a simple approach before moving on to more complicated solutions.
@@ -61,24 +60,16 @@ All tech projects start with a simple approach before moving on to more complica
 - We will not work with big data, data streaming or parallel computing.
 
 ## Files in this repository: 
-- Folder Notebook_APIs:
-            [Gather some data on airports
-- Folder Notebook_AWS: 
-- Notebooks_Push_Data_Local_Database
-
-
-- [Description of dataset: tables and columns](../main/description_tables_columns.txt)
-- [Notebook for Data Cleaning and Data Quality Assessment](../main/data-cleaning-and-merging.ipynb)      
-- [Notebook for Explorative Data Analysis and Visualizations](../main/EDA_for_sales-data.ipynb)  
-- [CSV file brands raw data](../main/brands.csv)  
-- [CSV file brands cleaned](../main/brands_clean.csv)
-- [CSV file orders raw data](../main/orders.csv)  
-- [CSV file orders cleaned](../main/orders_clean.csv)
-- [CSV file orderlines raw data](../main/orderlines.csv)  
-- [CSV file orderlines cleaned](../main/orderlines_clean.csv)
-- [CSV file products raw data](../main/products.csv)  
-- [CSV file products cleaned](../main/products_clean.csv)
-
+- Folder "Notebooks on APIs":
+            [Gather data on future flight arrivals](../main/Notebooks_APIs/flights_arrivals_API_to_dataframe.ipynb)
+            [Gather data on future weather](../main/Notebooks_APIs/weather_API_to_dataframe.ipynb) 
+- Folder "Notebooks on Webscraping": 
+            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Webscraping/extract_wiki.ipynb)
+- Folder "Notebooks on pushing data to local database": 
+            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/Wiki_scraper_mysql.ipynb)
+            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/flights_data_to_mysql.ipynb)
+            [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/weather_API_to_mysql.ipynb)
+       
 
 
 
