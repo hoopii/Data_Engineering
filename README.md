@@ -60,12 +60,17 @@ All tech projects start with a simple approach before moving on to more complica
 - We will not work with big data, data streaming or parallel computing.
 
 ## Files in this repository: 
-- Folder "Notebooks on APIs":
+- Folder for notebooks on APIs:
+            
             [Gather data on future flight arrivals](../main/Notebooks_APIs/flights_arrivals_API_to_dataframe.ipynb)
             [Gather data on future weather](../main/Notebooks_APIs/weather_API_to_dataframe.ipynb) 
-- Folder "Notebooks on Webscraping": 
+- 
+- Folder for notebook on webscraping: 
+            
             [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Webscraping/extract_wiki.ipynb)
-- Folder "Notebooks on pushing data to local database": 
+- 
+- Folder for Notebooks on pushing data to local database/mySql
+            
             [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/Wiki_scraper_mysql.ipynb)
             [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/flights_data_to_mysql.ipynb)
             [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Push_Data_Local_Database/weather_API_to_mysql.ipynb)
