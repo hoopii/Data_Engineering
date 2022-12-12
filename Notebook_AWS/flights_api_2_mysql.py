@@ -19,7 +19,7 @@ def tomorrows_flight_arrivals(icao_list):
       querystring = {"withLeg":"true","direction":"Arrival","withCancelled":"false","withCodeshared":"true","withCargo":"false","withPrivate":"false"}
       headers = {
           'x-rapidapi-host': "aerodatabox.p.rapidapi.com",
-          'x-rapidapi-key': "c6b4a624demsh1de39ecc544205cp17f101jsnbc19313f31cc"
+          'x-rapidapi-key': "put your key here"
           }
       response = requests.request("GET", url, headers=headers, params=querystring)
       flights_json = response.json()
@@ -49,7 +49,7 @@ def flights_api_2_mysql():
 
     username = 'root'
 
-    password = 'Hoopii123'
+    password = 'put your password here'
 
     host = 'wbs-project3-db.ccyhe0gcjtam.eu-central-1.rds.amazonaws.com'
 
