@@ -65,8 +65,10 @@ All tech projects start with a simple approach before moving on to more complica
   - [Gather data on future weather](../main/Notebooks_APIs/weather_API_to_dataframe.ipynb)   
 - Folder for notebook on webscraping:   
   - [Scrape Wikipedia for basic information about the cities](../main/Notebooks_Webscraping/extract_wiki.ipynb)  
-- Folder for Notebooks on pushing data to local database/mySQL  
+- [Create empty tables in SQL before pushing the data](../main/Prepare_Tables_in_SQL.sql)  
+- Folder for notebooks on pushing data to local database/mySQL  
   - [push basic information about the cities to mySQL](../main/Notebooks_Push_Data_Local_Database/Wiki_scraper_mysql.ipynb)
   - [push data on flight arrivals to mySQL](../main/Notebooks_Push_Data_Local_Database/flights_data_to_mysql.ipynb)
   - [push data on weather to mySQL](../main/Notebooks_Push_Data_Local_Database/weather_API_to_mysql.ipynb)
-- [Create empty tables in SQL before pushing the data](../main/Prepare_Tables_in_SQL.sql)
+- Folder for connecting lambda function:  
+  - [Connect lambda function to RDS instance](/Notebook_AWS/flights_api_2_mysql.py)
